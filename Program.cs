@@ -5,6 +5,9 @@ using AppExercPooHeranPoli.Entities;
 
 namespace AppExercPooHeranPoli
 {
+    /// <summary>
+    /// Exercicio POO - Herança e polimorfismo
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
